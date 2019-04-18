@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
                 "Cristiano Ronaldo dos Santos Aveiro GOIH ComM is a Portuguese professional footballer who plays as a forward for Italian club Juventus and captains",
                 "Neymar da Silva Santos Júnior commonly known as Neymar Jr. or simply Neymar, is a Brazilian professional footballer who plays as a forward",
                 "Sergio Ramos García is a Spanish professional footballer who plays for and captains both Real Madrid and the Spain national team as a centre back.",
-                "Antoine Griezmann is a French professional footballer who plays as a forward for Atlético Madrid and the French national team",
+                "Antoine Griezmann is a French professional footballer who plays as a forward for Atlético Madrid and the French national team FootBall team",
                 "Luka Modrić is a Croatian professional footballer who plays as a midfielder for Spanish club Real Madrid and is the captain of the Croatia national team",
                 "Luis Alberto Suárez Díaz is a Uruguayan professional footballer who plays as a striker for Spanish club Barcelona and the Uruguay national team",
                 "Kylian Mbappé Lottin is a French professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and the France national team.",
